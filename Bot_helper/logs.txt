@@ -1,0 +1,3 @@
+[18:52:49] Addressbook has been loaded!
+[18:53:22] Contact vvvksdfh has been added.
+[18:53:22] Addressbook has been saved!
