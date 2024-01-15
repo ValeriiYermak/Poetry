@@ -1,3 +1,7 @@
 [18:52:49] Addressbook has been loaded!
 [18:53:22] Contact vvvksdfh has been added.
 [18:53:22] Addressbook has been saved!
+[19:05:52] Addressbook has been loaded!
+[19:06:44] Contact kasdhbfs has been added.
+[19:06:44] Addressbook has been saved!
+[19:07:03] Addressbook has been loaded!
